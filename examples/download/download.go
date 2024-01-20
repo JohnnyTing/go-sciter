@@ -4,8 +4,9 @@ import (
 	"flag"
 	"log"
 
-	"github.com/sciter-sdk/go-sciter"
 	"github.com/sciter-sdk/go-sciter/window"
+
+	"github.com/JohnnyTing/go-sciter"
 )
 
 func load(w *window.Window, url string) {
