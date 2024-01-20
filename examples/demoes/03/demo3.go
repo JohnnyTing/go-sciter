@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/sciter-sdk/go-sciter/window"
+	"github.com/JohnnyTing/go-sciter/window"
 
 	"github.com/JohnnyTing/go-sciter"
 )

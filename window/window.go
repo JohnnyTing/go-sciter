@@ -16,7 +16,7 @@ func (w *Window) run() {
 }
 
 // https://github.com/golang/go/wiki/LockOSThread
-// https://github.com/sciter-sdk/go-sciter/issues/201
+// https://github.com/JohnnyTing/go-sciter/issues/201
 func init() {
 	runtime.LockOSThread()
 }
